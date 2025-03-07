@@ -1,10 +1,9 @@
-package com.crud.book.service;
+package com.crud.books.service;
 
-import com.crud.book.entity.Book;
-import com.crud.book.enumerate.RecordStatus;
-import com.crud.book.repository.BookRepository;
+import com.crud.books.entity.Book;
+import com.crud.books.enumerate.RecordStatus;
+import com.crud.books.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

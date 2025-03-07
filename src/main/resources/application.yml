@@ -1,7 +1,7 @@
 driver-class-name: com.mysql.cj.jdbc.Driver
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/book
+    url: jdbc:mysql://localhost:3306/books
     username: root
     password: admin
     driver-class-name: com.mysql.cj.jdbc.Driver

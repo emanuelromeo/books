@@ -1,4 +1,4 @@
-package com.crud.book.entity;
+package com.crud.books.entity;
 
 // Crea una classe Book per rappresentare un libro con i seguenti attributi:
 // id,
@@ -6,7 +6,7 @@ package com.crud.book.entity;
 // author,
 // isbn (codice alfanumerico)
 
-import com.crud.book.enumerate.RecordStatus;
+import com.crud.books.enumerate.RecordStatus;
 import jakarta.persistence.*;
 
 @Entity

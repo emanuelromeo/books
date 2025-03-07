@@ -1,4 +1,4 @@
-package com.crud.book.enumerate;
+package com.crud.books.enumerate;
 
 public enum RecordStatus {
     A("Active"),
